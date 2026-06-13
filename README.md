@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hey,%20I'm%20Gosho%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Developer%20&%20Cyber%20Enthusiast&descSize=20&descColor=e0e0e0" alt="Header Banner" />
-</div>
+<h1 align="center">Hey, I'm Gosho 👋</h1>
+<h3 align="center">Developer & Cyber Enthusiast | SoftUni Student</h3>
 
 <p align="center">
   <i>A passionate developer from Bulgaria 🇧🇬 building software with a strong focus on Cybersecurity.</i>
