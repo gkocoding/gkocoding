@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey,+I'm+Gosho+👋;Cybersecurity+Enthusiast;SoftUni+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey,+I'm+Gosho+👋;Developer+&+Cyber+Enthusiast;SoftUni+Student" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <i>A passionate self-taught tech enthusiast from Bulgaria 🇧🇬 focusing on Cybersecurity and building my skills.</i>
+  <i>A passionate developer from Bulgaria 🇧🇬 building software with a strong focus on Cybersecurity.</i>
 </p>
 
 <div align="center">
@@ -12,30 +12,46 @@
 
 ---
 
-### 🔐 About Me
+### 👨‍💻 About Me
 
 - 🎓 Currently studying at **[Software University (SoftUni)](https://softuni.bg)**.
-- 💻 Passionate about **Cybersecurity**, exploring system vulnerabilities, and learning how to protect digital environments.
-- 🐍 Deepening my knowledge in **Python**, **Linux**, and network security fundamentals.
-- 🎯 **Current Goal:** Looking for opportunities to land my first role in **Information Security / Cybersecurity**.
-- ⚡ **Fun Fact:** I started with coding, but realizing how systems can be broken made me passionate about learning how to secure them!
+- 💻 I love programming and building applications, but my **ultimate goal is Cybersecurity**. 
+- 🔐 I believe that to effectively secure a system (or break into it), you first need to know how to build it from scratch.
+- 🌱 Expanding my knowledge from web technologies into lower-level languages and system architecture.
+- ⚡ **Fun Fact:** My coding journey started with building things, but learning how systems can be exploited made me passionate about defending them!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-**Languages & Databases**
+**Languages I know best:** (Python, SQL, HTML, CSS, JavaScript)
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" alt="Languages and Databases" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js&theme=dark" alt="Proficient Languages" />
 </a>
 
 <br/>
 
-**Tools & Environment**
+**Currently learning:** (C, C++, C#)
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs&theme=dark" alt="Learning Languages" />
+</a>
+
+<br/>
+
+**Operating Systems:** (Arch, Kali, Ubuntu)
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu&theme=dark" alt="Operating Systems" />
+</a>
+
+<br/>
+
+**Tools & Environment:**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
 </a>
 
 ---
