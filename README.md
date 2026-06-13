@@ -1,58 +1,70 @@
-# Hey, I'm Gosho 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey,+I'm+Gosho+👋;Cybersecurity+Enthusiast;SoftUni+Student" alt="Typing SVG" />
+</div>
 
-I'm a passionate self-taught developer from Bulgaria, currently studying at **SoftUni**, building my skills one project at a time.
+<p align="center">
+  <i>A passionate self-taught tech enthusiast from Bulgaria 🇧🇬 focusing on Cybersecurity and building my skills.</i>
+</p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Currently studying at **Software University (SoftUni)**
-- 💻 Passionate about building real-world projects
-- 🌱 Always learning — currently focused on **Full-Stack Development**
-- 🎯 Goal: Land my first Developer job
-- ⚡ Fun fact: I started coding and haven't stopped since
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gkocoding&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🔐 About Me
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎓 Currently studying at **[Software University (SoftUni)](https://softuni.bg)**.
+- 💻 Passionate about **Cybersecurity**, exploring system vulnerabilities, and learning how to protect digital environments.
+- 🐍 Deepening my knowledge in **Python**, **Linux**, and network security fundamentals.
+- 🎯 **Current Goal:** Looking for opportunities to land my first role in **Information Security / Cybersecurity**.
+- ⚡ **Fun Fact:** I started with coding, but realizing how systems can be broken made me passionate about learning how to secure them!
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-![Gosho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkocoding&show_icons=true&theme=tokyonight&hide_border=true)
+**Languages & Databases**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" alt="Languages and Databases" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkocoding&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
----
-
-## 🔭 What I'm Working On
-
-- 🕸️ Building **full-stack web applications**
-- 🐍 Deepening my **Python** skills
-- 📚 Completing my curriculum at **SoftUni**
-
----
-
-## 📫 Get In Touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-gkocoding-181717?style=for-the-badge&logo=github)](https://github.com/gkocoding)
+**Tools & Environment**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tools" />
+</a>
 
 ---
 
-*"The best way to learn programming is to build things that matter."*
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gkocoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Gosho's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkocoding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkocoding&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Get In Touch
+
+<div align="center">
+  <a href="https://github.com/gkocoding">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- <a href="ТВОЯТ_LINKEDIN_ЛИНК"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <!-- <a href="mailto:ТВОЯТ_ИМЕЙЛ"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+</div>
+
+<br/>
+
+<div align="center">
+  <q><i>The best way to secure a system is to understand how it's built.</i></q>
+</div>
