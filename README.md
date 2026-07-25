@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages I know best:** (Python, TYPESCRIPT, JAVA)
+**Languages I know best:** (Python, TypeScript, Java)
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,typescript,java&theme=dark" alt="Proficient Languages" />
@@ -35,6 +35,13 @@
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs&theme=dark" alt="Learning Languages" />
+</a>
+
+<br/>
+**Front-End:** (HTML, CSS, JavaScript)
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="Proficient Languages" />
 </a>
 
 <br/>
