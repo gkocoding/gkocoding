@@ -38,10 +38,11 @@
 </a>
 
 <br/>
-**Front-End:** (HTML, CSS, JavaScript)
+
+**Front End:** (HTML, CSS, JavaScript)
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="Proficient Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="Front-End Languages" />
 </a>
 
 <br/>
