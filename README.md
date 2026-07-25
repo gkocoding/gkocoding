@@ -58,7 +58,7 @@
 **Tools & Environment:**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm,intellij&theme=dark" alt="Tools" />
 </a>
 
 ---
