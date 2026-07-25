@@ -47,6 +47,14 @@
 
 <br/>
 
+**DB i can work with:** (MongoDB, PostgreSQL, SQLite)
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" alt="Proficient Languages" />
+</a>
+
+<br/>
+
 **Operating Systems:** (Windows, Arch, Debian, Ubuntu)
 <br/>
 <a href="https://skillicons.dev">
@@ -58,7 +66,7 @@
 **Tools & Environment:**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm,idea&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,webstorm,idea&theme=dark" alt="Tools" />
 </a>
 
 ---
