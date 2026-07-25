@@ -47,10 +47,10 @@
 
 <br/>
 
-**Operating Systems:** (Arch, Kali, Ubuntu)
+**Operating Systems:** (Windows 10, Arch, Kali, Ubuntu)
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu&theme=dark" alt="Operating Systems" />
+  <img src="https://skillicons.dev/icons?i=windows10,arch,kali,ubuntu&theme=dark" alt="Operating Systems" />
 </a>
 
 <br/>
