@@ -26,7 +26,7 @@
 **Languages I know best:** (Python, SQL, HTML, CSS, JavaScript)
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js&theme=dark" alt="Proficient Languages" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,html,css,js&theme=dark" alt="Proficient Languages" />
 </a>
 
 <br/>
