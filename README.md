@@ -47,10 +47,10 @@
 
 <br/>
 
-**Operating Systems:** (Windows, Arch, Debain, Ubuntu)
+**Operating Systems:** (Windows, Arch, Debian, Ubuntu)
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,arch,debain,ubuntu&theme=dark" alt="Operating Systems" />
+  <img src="https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=dark" alt="Operating Systems" />
 </a>
 
 <br/>
