@@ -1,101 +1,85 @@
-<h1 align="center">Hey, I'm Gosho 👋</h1>
-<h3 align="center">Developer & Cyber Enthusiast | SoftUni Student</h3>
+<h1 align="center">Hi, I'm Gosho 👋</h1>
+<h3 align="center">Developer · Cybersecurity Enthusiast · SoftUni Student</h3>
 
 <p align="center">
-  <i>A passionate developer from Bulgaria 🇧🇬 building software with a strong focus on Cybersecurity.</i>
+  I build software and explore how to make systems more secure.
+  Based in Bulgaria 🇧🇬
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gkocoding&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 Currently studying at **[Software University (SoftUni)](https://softuni.bg)**.
-- 💻 I love programming and building applications, but my **ultimate goal is Cybersecurity**. 
-- 🔐 I believe that to effectively secure a system (or break into it), you first need to know how to build it from scratch.
-- 🌱 Expanding my knowledge from web technologies into lower-level languages and system architecture.
-- ⚡ **Fun Fact:** My coding journey started with building things, but learning how systems can be exploited made me passionate about defending them!
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages I know best:** (Python, Java)
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Proficient Languages" />
-</a>
-
-<br/>
-
-**Currently learning:** (C, C++, C#)
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs&theme=dark" alt="Learning Languages" />
-</a>
-
-<br/>
-
-**Front End:** (HTML, CSS, JavaScript, TypeScript,)
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" alt="Front-End Languages" />
-</a>
-
-<br/>
-
-**DB i can work with:** (MongoDB, PostgreSQL, SQLite)
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" alt="Proficient Languages" />
-</a>
-
-<br/>
-
-**Operating Systems:** (Windows, Arch, Debian, Ubuntu)
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=dark" alt="Operating Systems" />
-</a>
-
-<br/>
-
-**Tools & Environment:**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,webstorm,idea&theme=dark" alt="Tools" />
-</a>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkocoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Gosho's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkocoding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkocoding&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-### 📫 Get In Touch
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/gkocoding">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://komarev.com/ghpvc/?username=gkocoding&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <!-- <a href="ТВОЯТ_LINKEDIN_ЛИНК"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <!-- <a href="mailto:ТВОЯТ_ИМЕЙЛ"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
-</div>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <q><i>The best way to secure a system is to understand how it's built.</i></q>
-</div>
+## About
+
+- 🎓 Studying at [Software University (SoftUni)](https://softuni.bg)
+- 💻 Interested in software development and application security
+- 🔐 Learning how systems are built, tested, and secured
+- 🌱 Currently exploring lower-level programming and system architecture
+
+## Explore
+
+<p>
+  <a href="Cybersecurity.md">
+    <img src="https://img.shields.io/badge/🔐_Cybersecurity-CTFs%20%26%20Certificates-176B87?style=for-the-badge" alt="Cybersecurity: CTFs and certificates" />
+  </a>
+</p>
+
+## Skills & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs&theme=dark" alt="Python, Java, C, C++, and C#" />
+</p>
+
+**Web development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" alt="HTML, CSS, JavaScript, and TypeScript" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" alt="MongoDB, PostgreSQL, and SQLite" />
+</p>
+
+**Operating systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=dark" alt="Windows, Arch Linux, Debian, and Ubuntu" />
+</p>
+
+**Development tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,webstorm,idea&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, PyCharm, WebStorm, and IntelliJ IDEA" />
+</p>
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gkocoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkocoding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Most-used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkocoding&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+</p>
+
+## Contact
+
+<p>
+  <a href="https://github.com/gkocoding">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Build it. Understand it. Secure it.</i>
+</p>
