@@ -9,10 +9,6 @@
   <a href="https://github.com/gkocoding">
     <img src="https://img.shields.io/badge/GitHub-gkocoding-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://gkocoding.github.io/gkocoding/cybersecurity.html">
-    <img src="https://img.shields.io/badge/Cybersecurity-Certificates-0A7B83?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Cybersecurity certificates" />
-  </a>
-</p>
 
 ---
 
